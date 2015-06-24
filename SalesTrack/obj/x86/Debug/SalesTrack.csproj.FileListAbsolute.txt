@@ -1,0 +1,9 @@
+c:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.Properties.Resources.resources
+c:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.csproj.GenerateResource.Cache
+c:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.exe
+c:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.pdb
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.frmNewSaleManager.resources
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.frmNewSale.resources
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\bin\Debug\SalesTrack.exe
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\bin\Debug\SalesTrack.pdb
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Debug\SalesTrack.csprojResolveAssemblyReference.cache

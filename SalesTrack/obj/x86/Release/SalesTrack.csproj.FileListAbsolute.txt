@@ -1,0 +1,8 @@
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\bin\Release\SalesTrack.exe
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\bin\Release\SalesTrack.pdb
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Release\SalesTrack.frmNewSaleManager.resources
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Release\SalesTrack.frmNewSale.resources
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Release\SalesTrack.Properties.Resources.resources
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Release\SalesTrack.csproj.GenerateResource.Cache
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Release\SalesTrack.exe
+C:\Users\Trenton\Documents\Visual Studio 2010\Projects\SalesTrack\SalesTrack\obj\x86\Release\SalesTrack.pdb

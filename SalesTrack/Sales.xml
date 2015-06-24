@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sales>
+    <Sale>
+        <Code>6758</Code>
+        <Description>Ipad Air</Description>
+        <Price>549.50</Price>
+    </Sale>
+    <Sale>
+        <Code>4589</Code>
+        <Description>keyboard</Description>
+        <Price>59.99</Price>
+    </Sale>
+    <Sale>
+        <Code>3479</Code>
+        <Description>PCcontroller</Description>
+        <Price>39.99</Price>
+    </Sale>
+    <Sale>
+        <Code>6705</Code>
+        <Description>Nook</Description>
+        <Price>129.59</Price>
+    </Sale>
+    <Sale>
+        <Code>334</Code>
+        <Description>34</Description>
+        <Price>34</Price>
+    </Sale>
+</Sales>
